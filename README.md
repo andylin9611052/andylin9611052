@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">I am a college student from Taiwan</h3>
 
-- 📫 How to reach me :Email:**andylin9611052@gmail.com**
+- 📫 How to reach me :
+  Email:**andylin9611052@gmail.com**
 
 <p align="left">
 </p>
