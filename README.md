@@ -1,8 +1,6 @@
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
-
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">I am a college student from Taiwan</h3>
-
+img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"
 - 📫 How to reach me **andylin9611052@gmail.com**
 
 <p align="left">
