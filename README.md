@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">I am a college student from Taiwan</h3>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 - 📫 How to reach me **andylin9611052@gmail.com**
 
 <p align="left">
