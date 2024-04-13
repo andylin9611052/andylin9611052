@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.pinterest.com/pin/861594972482775150/](https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif))]
+[![MasterHead](https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif)]
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">I am a college student from Taiwan</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
